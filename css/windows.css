@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+html{
+    background: rgb(28,0,36);
+    background: linear-gradient(90deg, rgba(28,0,36,1) 0%, rgba(67,9,121,1) 35%, rgba(34,0,255,1) 100%);
+}
+a{
+    color: red;
+}
+.cnt{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif; 
+    color:white;
+}
+.lnks-hd{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;   
+}
+.lnks-hd-rght{
+    font-size:30px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color:red;
+    margin-left:20px;
+}
