@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 html{
     background: rgb(28,0,36);
-    background: linear-gradient(90deg, rgba(28,0,36,1) 0%, rgba(67,9,121,1) 35%, rgba(34,0,255,1) 100%);
+    background: linear-gradient(90deg, rgb(17, 0, 255) 0%, rgb(9, 59, 121) 35%, rgba(34,0,255,1) 100%);
 }
 a{
     color: red;
@@ -11,16 +11,17 @@ a{
     font-family: 'Open Sans', sans-serif;
     color:white;
 }
-.lnks-hd{
-    font-size: 30px;
-    font-family: 'Open Sans', sans-serif;
-    text-decoration: none;
     
-}
-.lnks-hd-rght{
-    font-size:30px;
-    margin-left:20px;
-    color:red;
+nav{
+    font-size:20px;
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
+    color:red;
+}
+
+.a1{
+    left:5px;
+}
+.a2{
+    left:20px;
 }
